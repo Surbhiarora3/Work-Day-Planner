@@ -16,3 +16,5 @@ Then the saved events persist.
 
 Languages used - HTML, CSS, JavaScript
 
+
+![Capture](https://user-images.githubusercontent.com/55901542/162391248-40310744-723d-4b41-9fb3-f9aff63f6bda.JPG)
